@@ -3,8 +3,6 @@
 }
 
 body {
-    /* Dont change the content of body */
-    /* They can be overwritten if needed */
     font-family: 'Times New Roman', Times, serif;
     overflow-wrap: anywhere;
     font-size: clamp(1rem, 1vw + 0.8rem, 1.2rem);
