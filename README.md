@@ -15,6 +15,7 @@ A responsive, multi-page website showcasing historical monuments from around the
 * **Back-to-Top Button:** A floating button that appears on scroll for better UX.
 * **Active Navigation Indicator:** Automatically highlights the current page in the header and footer.
 * **Form Validation:** Real-time validation for the Feedback page.
+* **Webpage Cion:** Added a webpage icon to all my pages.
 
 ## JavaScript Explanation
 
