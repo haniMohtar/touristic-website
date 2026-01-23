@@ -4,8 +4,7 @@ A responsive, multi-page website showcasing historical monuments from around the
 
 ## How to Run the Site
 
-1. **Localy:** open `index.html` in any modern web browser (Chrome, Firefox, or Edge).
-2. **Online:** Visit the live site at: [https://hanimohtar.github.io/touristic-website/]
+* **Localy:** open `index.html` in any modern web browser (Chrome, Firefox, or Edge).
 
 ## Summary of Features
 
