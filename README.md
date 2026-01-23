@@ -31,10 +31,10 @@ The site uses vanilla JavaScript (`js/main.js`) to enhance user experience witho
 
 ## Tools Used
 
-* **HTML5** (Semantic structure)
-* **CSS3** (Custom properties and Media Queries)
-* **JavaScript** (ES6+ DOM manipulation)
-* **GitHub Pages** (Deployment and hosting)
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **GitHub Pages**
 
 ---
 **Developer:** Hani Mohtar (Lebanese University - 2nd Year CS)
