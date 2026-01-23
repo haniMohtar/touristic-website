@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Feed Back</title>
+</head>
+
+<body>
+    <div id="top"></div>
+    <header>
+        <nav class="navbar">
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </nav>
+        <h1>A Touristic Guide to World Monuments</h1>
+    </header>
+
+    <main class="container">
+        <section class="info-card">
+            <h2>We Value Your Feedback</h2>
+            <p>Please let us know your thoughts about our touristic guide or share your experience visiting these
+                monuments.</p>
+
+            <form id="feedback-form">
+                <div class="form-group">
+                    <label for="name">Full Name:</label>
+                    <input type="text" id="name" name="name" placeholder="Enter your name" autocomplete="name">
+                    <span class="error-message" id="name-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address:</label>
+                    <input type="email" id="email" name="email" placeholder="Enter your email" autocomplete="email">
+                    <span class="error-message" id="email-error"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Your Message:</label>
+                    <textarea id="message" name="message" rows="5" placeholder="Write your feedback here..."></textarea>
+                    <span class="error-message" id="message-error"></span>
+                </div>
+
+                <button type="submit" class="submit-btn">Send Feedback</button>
+            </form>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <p>&copy; 2025-2026 Lebanese University - <a href="mailto:hanimohtar23@outlook.com">Hani Mohtar's Student</a>
+            Project </p>
+        <ul class="footer-links">
+            <li><a href="feedback.html">Feedback</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </footer>
+
+    <a href="#top" class="to-top-circle">
+        ↑
+    </a>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
